@@ -3,3 +3,4 @@
 pyproject.toml
 main.py
 uv.lock
+.idea/
